@@ -1,0 +1,5 @@
+venv/
+.env
+city_dates.json
+visa_status_log.csv
+thread_id_updates.txt
